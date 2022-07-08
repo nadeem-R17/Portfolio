@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.8bed597f.css",
+    "main.js": "/Portfolio/static/js/main.ad7cee56.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.png": "/Portfolio/static/media/logo.c970da94e8a76643f196.png",
+    "static/media/freelearn.png": "/Portfolio/static/media/freelearn.a8c35e08498b928f4340.png",
+    "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.22f3000c2b2cb68b5d9f.jpg",
+    "static/media/gdsc.png": "/Portfolio/static/media/gdsc.a45abeee8de0d9348248.png",
+    "static/media/avatar.svg": "/Portfolio/static/media/avatar.f29828d8c2cec56ada4a25372db5f3b3.svg",
+    "static/media/nadeem_resume.pdf": "/Portfolio/static/media/nadeem_resume.f5855d3b2c776850cd84.pdf",
+    "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Portfolio/static/media/about.8803e12a5290bec73316.png",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.c594ff9edc564515ec88.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.8bed597f.css.map": "/Portfolio/static/css/main.8bed597f.css.map",
+    "main.ad7cee56.js.map": "/Portfolio/static/js/main.ad7cee56.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bed597f.css",
+    "static/js/main.ad7cee56.js"
+  ]
+}
